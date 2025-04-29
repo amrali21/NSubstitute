@@ -43,7 +43,8 @@
       "_appLogoPath": "images/nsubstitute-32x32.png",
       "_enableSearch": true,
       "pdf": true,
-      "repo": "https://github.com/nsubstitute/NSubstitute"
+      "repo": "https://github.com/nsubstitute/NSubstitute",
+      "_gitUrlPattern": "{host}/{owner}/{repo}/blob/{branch}/{path}"
     }
   }
 }
